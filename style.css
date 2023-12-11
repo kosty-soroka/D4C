@@ -1,0 +1,108 @@
+body {
+    font-family: sans-serif;
+    background-color: #1ADBCF;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: ;
+    margin-bottom: 20px;
+    background-color: black;
+    align-items: center; 
+   
+}
+
+.button {
+    background-color: purple;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 24px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+nav {
+    display: flex;
+    border-top: 5px solid purple;
+    border-bottom: 5px solid purple;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+   background-color: #1ADBCF;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: purple;
+    text-decoration: none;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+}
+
+article {
+    background-color: white;
+    padding: 20px;
+    width: 400px;
+    margin: 15px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: purple;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    border-radius: 15px;
+}
+
+footer {
+    display: flex;
+    background-color: lawngreen;
+    padding: 15px;
+}
+
+footer a {
+ margin-right: ;
+}
+
+footer p {
+    font-size: 24px;
+    margin-left: 750px;
+}
+
+main {
+    background-color: #1ADBCF;
+}
+
+.image {
+padding: 10px;
+border-radius: 15px;
+
+}
+
+.instagram {
+    margin-left: 80px;
+}
